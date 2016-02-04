@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "New Technologies"
+date:   2014-11-11
+categories: technology society
+---
+
+*Star Trek* actually touches on this concept regularly in many episodes, and is usually referred to as "The Prime Directive". In short, The Federation will not interfere or simply give technology to pre-warp societies so as to not impose their vision of life and culture on others. Its portrayed as both noble and crippling to the crew of Enterprise, but generally each episode confirms that the Prime Directive is both necessary and good.
+
+But that is all fiction, so why does it relate to us? Because the technological differences between continents, countries, and even states is such that there are real and definite repercussions to simply handing out technology.
+
+The most strikingly obvious and recent example of this is ISIS. After overwhelming and overthrowing the previous Iraqi government, the United States imported a ton of technology: Weapons, democracy, rights, and many other societal and physical technologies to "rebuild" the country. We interfered with their progression as a country.
+
+Is democracy a technology? Of course it is. It is an advancement of decentralized planning, and is a direct derivative of anarchy. Granted, the version we gave them included federated aspects and a presidency and many other advancements and iterations on the idea that are similar to our version of the technology. But why are there such huge differences in how our version of it functions against the Iraqis? More importantly, how does importing the technology of Democracy relate to ISIS?
+
+The key misunderstanding here is in believing that just giving a technology instantly assumes the society and its culture can mold to it. You can see in their version of the Iraqi constitution their attempts to fit the technology to the culture, but in no way did the opposite happen. What caused and ultimately drove the technology to be useless in its implementation was the corrupt president and government officials. Iraqis rejected this new technology on the basis that it did not make their lives apparently better. Rights mean little if you are struggling to survive, and those rights mean even less if a corrupt government is the enforcer.
+
+The Iraqis quickly became disenfranchised by the corruption. After arming many Iraqi forces with modern American weapon technology, the US left, believing that simply air dropping in artillery would mean the area was safe. When ISIS forces started to sweep through, Iraqi soldiers just abandoned American hardware as they had little to no loyalty to their government. This allowed ISIS to gain huge amounts of weaponry very quickly, and become far more powerful than they should have. Ironically, ISIS was much more readily and able to ingest the technology we gave the Iraqi's because their society had already molded into one that was prepared to receive an iteration of weapons technology.
+
+Failed technological imports happen all over the world throughout history: dumping free food in starving nations deprives local farmers of the commerce they need to grow food, eventually destroying the supply and making the local populace even more dependent on food imports. Giving ambulances or other vehicles when the supply chain of skilled mechanics, parts, and fuel don't exist to maintain the ambulances. The war on drugs and prohibition (biology/chemistry) is a misapplication of economics and a misunderstanding of black markets. The Internet was seen as important to integrate with all of society, without the consideration that giving companies unregulated monopolies to huge geographic regions to subsidize the cost of laying copper/fiber would create moral hazards. Texting and cars, alcohol and cars, or basically anything and cars. Theory of Evolution, nutrition science, soldiers returning from war.
+
+The list goes on and on and on. Technology can have huge effects on how it shapes society. Society must be willing to accept the changes that technologies bring. Likewise, technologies must be developed with their impact in mind. In the end, all technology is progressive (but neither liberal nor conservative) in nature, as anything new will ultimately challenge the status quo. What matters is our reaction and the relationship we establish with those new technologies.
