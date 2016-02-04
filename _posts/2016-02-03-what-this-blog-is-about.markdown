@@ -6,7 +6,7 @@ categories: meta about
 ---
 
 I resisted adopting a blog for a variety of reasons, but the most important to me was being able to
-see what I had previously written and write a reflection piece. This readon was one for which Facebook
+see what I had previously written and write a reflection piece. This was one for which Facebook
 was poor at being able to do. It wasn't obvious how to keep them all in one place in Facebook to make
 searching for them easy, or how to link to a previous post for readers to provide context.
 
