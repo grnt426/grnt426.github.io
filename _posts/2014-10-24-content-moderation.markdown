@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Contend Moderation"
+title:  "Content Moderation"
 date:   2014-10-24
 categories: media society technology
 ---
