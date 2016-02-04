@@ -2,7 +2,7 @@
 layout: post
 title:  "Logically Absurd"
 date:   2015-10-23
-categories: funny computers
+categories: funny computers short
 ---
 
 I kinda dislike logical puzzles. They are better described as absurdist creations, with some logical restrictions to give you some kind of challenge. Like the cars puzzle, or those chain/ring things that are all locked together but can be undone or aligned or whatever, or that stupid spherical ball maze thing.
