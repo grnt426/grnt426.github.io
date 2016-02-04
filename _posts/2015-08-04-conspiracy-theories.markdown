@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Conspiracy Theory"
-date:   2015-09-25
+date:   2015-08-04
 categories: short philosophical funny democracy
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Democraticized Information"
-date:   2015-09-25
+date:   2015-08-14
 categories: philosophical democracy self poem
 ---
 
