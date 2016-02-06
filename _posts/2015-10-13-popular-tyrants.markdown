@@ -3,6 +3,7 @@ layout: post
 title:  "Popular Tyrants"
 date:   2015-10-13
 categories: executive constitution
+tags: [exec_breakdown]
 ---
 
 "As President, I would...."

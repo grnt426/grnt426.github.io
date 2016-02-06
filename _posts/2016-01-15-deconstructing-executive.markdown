@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Decontructing the Executive Branch, 3"
+title:  "Decontructing the Executive Branch"
 date:   2016-01-15
 categories: executive constitution
+tags: [exec_breakdown]
 ---
 
 As my final piece deconstructing the Executive branch of our Democratic-Republic, I believe this to be the most scathing, and the most damaging to its image.
@@ -30,3 +31,4 @@ By far, the most dangerous branch of government to leave unchecked is the Execut
 This can be argued as a natural consequence of any implementation of the Executive branch. But it is important to highlight how quickly this branch can turn to tyranny. Its important to realize exactly who is being elected to these positions, what their powers *actually* are (which isn't super-Legislators, like nearly all Presidential hopefuls pretend to be).
 
 Beware the Popular Tyrant; its not just a "theoretical" consequence of Political Science, it is a real, modern day consequence of the current Democratic-Republic we participate in.
+

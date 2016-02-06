@@ -12,4 +12,13 @@ layout: default
     {{ content }}
   </div>
 
+  {% for series in page.tags %}
+    <h2>More in This Series</h2>
+    {% for related in site.posts %}
+      {% if series == related.tags.first %}
+        <a href="{{ related.url | prepend: site.baseurl }}">{{ related.title }}</a>
+        <br />
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
 </article>
