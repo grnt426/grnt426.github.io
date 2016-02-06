@@ -4,8 +4,6 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -14,6 +12,15 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        
+        <section class="notepad-post-excerpt">
+                <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+            </section>
+            
+                <div class="notepad-index-post-tags">
+                {% for tag in post.categories %}<a href="/categories/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} category">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
+                    
+                </div>
       </li>
     {% endfor %}
   </ul>
