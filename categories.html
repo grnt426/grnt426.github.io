@@ -4,25 +4,25 @@ title: Categories
 permalink: /categories/index.html
 tags: [Categories]
 description: "An archive of posts sorted by categories."
-
+tablewidth: 3
+curwidth: 0
 ---
 
-<ul class="tag-box inline">
-{% assign tags_list = site.categories %}  
-  {% if tags_list.first[0] == null %}
-    {% for tag in tags_list %} 
-      <li><a href="#{{ tag }}">{{ tag | capitalize }} <span>{{ site.tags[tag].size }}</span></a></li>
-    {% endfor %}
-  {% else %}
-    {% for tag in tags_list %} 
-      <li><a href="#{{ tag[0] }}">{{ tag[0] | capitalize }} <span>{{ tag[1].size }}</span></a></li>
-    {% endfor %}
-  {% endif %}
-{% assign tags_list = nil %}
-</ul>
+<div class="categories_table">
+{% assign tags_list = site.categories %}
+  {% assign tablew = 3 %}
+  {% assign curw = 0 %}
 
+{% for tag in tags_list %}
+  <a href="#{{ tag[0] }}">{{ tag[0] | capitalize }} <span>{{ tag[1].size }}</span></a>
+  <br />
+{% endfor %}
+
+{% assign tags_list = nil %}
+</div>
+<br/>
 {% for tag in site.categories %} 
-  <h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
+  <h3 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h3>
   <ul class="post-list">
     {% assign pages_list = tag[1] %}  
     {% for post in pages_list %}
