@@ -2,7 +2,7 @@
 layout: post
 title:  "Decontructing the Executive Branch, 3"
 date:   2016-01-15
-categories: Executive politics danger
+categories: executive constitution
 ---
 
 As my final piece deconstructing the Executive branch of our Democratic-Republic, I believe this to be the most scathing, and the most damaging to its image.

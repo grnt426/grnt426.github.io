@@ -2,7 +2,7 @@
 layout: post
 title:  "GMO"
 date:   2015-07-25
-categories: science argument question analysis
+categories: science question analysis
 ---
 
 Referencing this article, [House To States: Don't You Dare Demand GMO Labels](http://www.npr.org/sections/thesalt/2015/07/23/425664015/house-to-states-dont-you-dare-demand-gmo-labels)

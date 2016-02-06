@@ -2,7 +2,7 @@
 layout: post
 title:  "Content Moderation"
 date:   2014-10-24
-categories: media society technology
+categories: media society
 ---
 
 Content moderation on the Internet is an incredibly difficult challenge to solve. Despite the years of image recognition research done at universities and in corporations, a lot of that process is more accurately done by real people. Even software to determine if a piece of text is offensive, threatening, or soliciting services is very difficult to accurately determine. It really does require the full breadth of human experiences and knowledge just to make judgement calls like that. Even then, false-positives or negatives are still going to slip through.

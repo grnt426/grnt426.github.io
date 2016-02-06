@@ -2,7 +2,7 @@
 layout: post
 title:  "Ludonarrative Dissonance"
 date:   2015-02-01
-categories: games analysis
+categories: analysis
 ---
 
 Ludonarrative dissonance, a compounding of a video game's story against what the player is actually doing, has some interesting facets that I think get ignored. This is primarily because a lot of focus is placed on whether the term means anything, whether it should even apply to video games, or whether it matters. So let's explore the topic.

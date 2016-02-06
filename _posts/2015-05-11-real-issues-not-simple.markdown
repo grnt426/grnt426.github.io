@@ -2,7 +2,7 @@
 layout: post
 title:  "Real Issues Aren't Simple"
 date:   2015-05-11
-categories: democracy knowledge
+categories: democracy
 ---
 
 No issue worth talking about is simple. Why would it be? Our world isn't simple. People have more than one trait, more than one "stereotype" that applies to them. So why should topics or events or issues be any different?

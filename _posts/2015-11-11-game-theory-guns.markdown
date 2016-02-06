@@ -2,7 +2,7 @@
 layout: post
 title:  "Game Theory as Applied to the Use of Force"
 date:   2015-11-11
-categories: guns game-theory question
+categories: guns question
 ---
 
 When trying to imagine a game-theoretic model for gun-owners and non-owners in Stand Your Ground states, I was rather intrigued with the difficulties in developing a complete model. But, I was also stumped by the kinds of assumptions that had to be made in order to assign relative pay-off values and risk probabilities.

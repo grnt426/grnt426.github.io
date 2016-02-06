@@ -2,7 +2,7 @@
 layout: post
 title:  "What This Blog is About"
 date:   2016-02-03
-categories: meta about
+categories: reflection
 ---
 
 I resisted adopting a blog for a variety of reasons, but the most important to me was being able to

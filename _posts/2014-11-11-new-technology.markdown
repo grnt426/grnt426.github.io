@@ -2,7 +2,7 @@
 layout: post
 title:  "New Technologies"
 date:   2014-11-11
-categories: technology society
+categories: society
 ---
 
 *Star Trek* actually touches on this concept regularly in many episodes, and is usually referred to as "The Prime Directive". In short, The Federation will not interfere or simply give technology to pre-warp societies so as to not impose their vision of life and culture on others. Its portrayed as both noble and crippling to the crew of Enterprise, but generally each episode confirms that the Prime Directive is both necessary and good.

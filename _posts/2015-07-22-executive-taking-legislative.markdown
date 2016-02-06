@@ -2,7 +2,7 @@
 layout: post
 title:  "Executive Taking the Legislative"
 date:   2015-07-22
-categories: executive tyrant
+categories: executive constitution
 ---
 
 The presidential election cycle is most curious. Huge amounts of attention, debates, time, advertising, scare-mongering, hope, promise of change, promise of harkening back to "the good ol' days", and such. Lots of people concentrate on a singular person to hope for their future. They place an enormous amount of trust in a singular position, a singular seat of power, a singular Authority.

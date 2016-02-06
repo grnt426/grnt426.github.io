@@ -2,7 +2,7 @@
 layout: post
 title:  "Sexuality and Gender"
 date:   2014-11-18
-categories: sexuality gender
+categories: sexuality
 ---
 
 There is a lot in these two topics alone, but there are several concrete and definite areas to focus on that are damaging to be left alone and empowering to both men and women to move forward into. A lot of this will be some basics of feminism along with some of the more recent progressions into that field. Nothing really new, but I would definitely like to give what I have taken away from it.

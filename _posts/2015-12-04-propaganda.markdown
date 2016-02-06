@@ -2,7 +2,7 @@
 layout: post
 title:  "Propaganda"
 date:   2015-12-04
-categories: propaganda democracy
+categories: democracy society
 ---
 
 Propaganda's primary mission isn't to get you to believe in lies. It never was. Besides, convincing the public of small or even large not-truths isn't difficult.

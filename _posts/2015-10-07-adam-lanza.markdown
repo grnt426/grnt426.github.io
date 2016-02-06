@@ -2,7 +2,7 @@
 layout: post
 title:  "Adam Lanza, School Shootings"
 date:   2015-10-07
-categories: question philosophical personal plea
+categories: question philosophical personal
 ---
 
 As some of my friends know, I am from Newtown, CT, where the Sandy Hook Elementary School shootings happened years ago. I haven't written about it yet, mostly because I have struggled to figure out what perspective I wanted to write, what to write about, and why. The article I posted a few days ago, [Why we All Miss the Point on School Shootings](http://markmanson.net/school-shootings), talks about Empathy and how that is what those school shooters needed. Now, its really easy to read that and think, "Yea, lets just all love each other, then our problems will go away!", or more cynically and less sarcastically, "You think Empathy would help Monsters like that?".

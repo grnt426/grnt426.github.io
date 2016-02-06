@@ -2,7 +2,7 @@
 layout: post
 title:  "Popular Tyrants"
 date:   2015-10-13
-categories: executive popular-tyrant
+categories: executive constitution
 ---
 
 "As President, I would...."

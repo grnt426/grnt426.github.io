@@ -2,7 +2,7 @@
 layout: post
 title:  "Duke Freshman Doesn't Want to Read Fun Home"
 date:   2015-08-28
-categories: philosophical analysis external sexuality
+categories: philosophical analysis sexuality
 ---
 
 

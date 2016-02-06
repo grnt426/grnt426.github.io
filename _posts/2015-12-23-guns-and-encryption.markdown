@@ -2,7 +2,7 @@
 layout: post
 title:  "The Equivalence of Guns and Encryption"
 date:   2015-12-23
-categories: guns encryption philosophical question
+categories: guns philosophical question
 ---
 
 I wanted to have some fun comparing encryption to gun ownership at a Constitutional and policy level.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Wars Undermine Democracy"
 date:   2015-12-16
-categories: question democracy wars executive popular-tyrant
+categories: question democracy executive constitution
 ---
 
 For more thoughts on the absurd reality that is Democracy and Military activities, one need look no further than presidential hopefuls.
