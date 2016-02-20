@@ -64,11 +64,11 @@ Figure 2 below demonstrates how the `StateStack` gets modified when the *Village
 
 This makes it clear that the `StateStack` will be heavily modified through *Action* cards, and information has to be carried over between states in a really kludgy way.
 
-*Reaction* cards proved really difficult to fit into this entire design idea. Whenever anything is done (as *Reaction* cards can react to almost any kind of ability) all cards currently in play and in each player's hand would have to be scanned for an appropriately matching *Reaction* card. Then, given how this could cause further *Reaction* cards or multiple player choices, would mean recursive `States` are being piled on in an apparent recursive fashion.
+*Reaction* cards proved really difficult to fit into this entire design idea. Whenever anything is done (as *Reaction* cards can react to almost any kind of ability) all cards currently in play and in each player's hand would have to be scanned for an appropriately matching *Reaction* card. Then, given how this could cause further *Reaction* cards or multiple player choices, would mean `States` are being piled on in an apparent recursive fashion.
 
 My first thought was, "o, this is kind of neat", but this quickly became apparent how the core design was being broken. Now each `State` had to be aware of everything in order to properly transition.
 
-Another increasingly worrisome problem was in how `States` communicated game state information. The design was focused very heavily on communicating deltas in information in pieces to all clients in a broadcast manner. This was fine, so long as client never disconnected or never missed a message. For testing on local machine this was more than sufficient, but would clearly need to be looked at again if it were to move out of the "lab" setting.
+Another increasingly worrisome problem was in how `States` communicated game state information. The design was focused very heavily on communicating deltas in information in pieces to all clients in a broadcast manner. This was fine, so long as the client never disconnected or never missed a message. For testing on a local machine this was more than sufficient, but would clearly need to be looked at again if it were to move out of the "lab" setting.
 
 For AI, we had to implement a kind of ugly workaround to allow them to interact with the `StateStack` as human players do to prevent having them coupled to the interface design of the `State` Object. This worked, but meant instead the AI was coupled to the communications object interface.
 
