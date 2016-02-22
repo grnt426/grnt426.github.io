@@ -2,7 +2,7 @@
 layout: post
 title:  "Philosophy Matters"
 date:   2016-02-21
-categories: philosophy meta
+categories: philosophical meta
 ---
 
 I post quite extensively about Philosophy (or at least pretend to), and usually with questions rather than concrete answers. I would hazard a guess many people like Philosophy, but don't quite feel that it impacts their every day lives.
