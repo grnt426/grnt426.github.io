@@ -29,21 +29,21 @@ Below I link to examples of some imps which I found. These are just the simplest
 
 <br />
 {:refdef: style="text-align: center;"}
-![StateStack Flow Diagram]({{site.cdn_path}}/clinton_and_hitler.jpg)
+![Imp]({{site.cdn_path}}/clinton_and_hitler.jpg)
 {: refdef}
 <p class="caption">Finding a quote that is kind of the same doesn't mean they are the same</p>
 <br />
 
 <br />
 {:refdef: style="text-align: center"}
-![StateStack Flow Diagram]({{site.cdn_path}}/all_parties_the_same.png)
+![Imp]({{site.cdn_path}}/all_parties_the_same.png)
 {: refdef}
 <p class="caption">Just because some things are similar, doesn't mean they are similar</p>
 <br />
 
 <br />
 {:refdef: style="text-align: center;"}
-![StateStack Flow Diagram]({{site.cdn_path}}/republicans_money.jpg)
+![Imp]({{site.cdn_path}}/republicans_money.jpg)
 {: refdef}
 <p class="caption">Strawman, meant to garner support without meaning anything</p>
 <br />
@@ -51,28 +51,35 @@ Below I link to examples of some imps which I found. These are just the simplest
 
 <br />
 {:refdef: style="text-align: center;"}
-![StateStack Flow Diagram]({{site.cdn_path}}/healthcare_and_guns.jpg)
+![Imp]({{site.cdn_path}}/healthcare_and_guns.jpg)
 {: refdef}
 <p class="caption">Starwman argument, equating two different things as the same</p>
 <br />
 
 <br />
 {:refdef: style="text-align: center;"}
-![StateStack Flow Diagram]({{site.cdn_path}}/conservative_logic.jpeg)
+![Imp]({{site.cdn_path}}/conservative_logic.jpeg)
 {: refdef}
 <p class="caption">Comparing two very different topics with generic arguments and strawmen</p>
 <br />
 
 <br />
 {:refdef: style="text-align: center;"}
-![StateStack Flow Diagram]({{site.cdn_path}}/health.jpg)
+![Imp]({{site.cdn_path}}/health.jpg)
 {: refdef}
 <p class="caption">Anecdotes don't mean it will work for everyone the same</p>
 <br />
 
 <br />
 {:refdef: style="text-align: center;"}
-![StateStack Flow Diagram]({{site.cdn_path}}/gop_economics.jpg)
+![Imp]({{site.cdn_path}}/gop_economics.jpg)
 {: refdef}
 <p class="caption">Just meant to garner support from like-minded, not actually mean anything</p>
+<br />
+
+<br />
+{:refdef: style="text-align: center;"}
+![Imp]({{site.cdn_path}}/generalizing_society.jpg)
+{: refdef}
+<p class="caption">Generalizing society, applying broad assumptions of people to everyone at large</p>
 <br />
