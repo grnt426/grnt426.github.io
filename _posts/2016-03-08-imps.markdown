@@ -17,7 +17,7 @@ Worse, Imps aren't designed to change anyone's mind. They are meant to reinforce
 
 Imps aren't fun. They are terrible creatures that prey on your naiveté, your ignorance, and your uncontrolled desires. They taunt you with promises of truth and reward and validation of one's outlook and philosophical views on life. Imps appear to effectively attack your opponents and leave them defenceless.
 
-The effectiveness of Imps encourages others to create or find their own Imps, and to trade them and send them to battle. Imps proliferate on Facebook and Imgur and Reddit andTwitter and other short-form content sites that discourage nuanced views by creating an ecosystem where Imps can run rampant.
+The effectiveness of Imps encourages others to create or find their own Imps, and to trade them and send them to battle. Imps proliferate on Facebook and Imgur and Reddit and Twitter and other short-form content sites that discourage nuanced views by creating an ecosystem where Imps can run rampant.
 
 This happens as a consequence of designing applications that allow users to quickly consume a lot of content. Users get used to these Imps because each one quickly bestows a little positive feedback. Long posts don't do this because the reward-cycle is too long and not as immediate or apparently satisfying. This is especially true of readers that aren't as educated or are firmly set in their original beliefs.
 
@@ -25,7 +25,7 @@ Don't adopt Imps. Don't share them and don't give them attention. They may screa
 
 -
 
-Below I link to examples of some imps which I found. These are just the simplest examples which help to illuminate the most obvious kinds of imps. There are all kinds of varying kinds and appearances. But they all have the same problems.
+Below I link to examples of some imps which I found. These are just the simplest examples which help to illuminate the most obvious kinds of imps. There are all kinds and appearances. But they all have the same problems.
 
 <br />
 {:refdef: style="text-align: center;"}
