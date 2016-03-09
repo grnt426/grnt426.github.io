@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "Imps"
+date:   2016-03-08
+categories: politics argumentation
+---
+
+Imps are everywhere. They are tiny little red things with big claws and hypnotic stares, but appear harmless. Some people even keep them as pets. Lots of them. They covet these little red-demons because they see them as friends.
+
+Imps, though, are far from friendly. What is an Imp? An IMP is Image Macro Politics. Its when images, of politicians or some kind of representation of a "value", is overlaid with text explaining why a political position is correct, or how another position is foolish. Imps like these are incredibly dangerous, as they miss many key aspects of rigorous thought, context, understanding, and formal argumentation.
+
+Anecdotally speaking, Imps are almost always wrong, no matter where on the political spectrum you are on. Some are wrong on their face, others take a single person or event and pretend it would work everywhere. Other Imps use strawmen for opponents, which after poorly defeating the strawman, use that to prop up their own position. Imps can sometimes just compare two incomparable things and say this is better or worse.
+
+Imps also purposefully devoid themselves of context or nuance. They don't allow it because the Imp is assumed to not need it. It doesn't need to be bigger or more Imposing or backed up with facts, the Imp is "friendly", anyone can pick it up and like it. Arguments don't work against the Imp because the Imp can be defended without committing to anything. Was an Imp taken out of context, or in direct contention with another anecdote? The Imp squirms its way out and laughs at opposing anecdotes as themselves extremes or edge-cases. The Imp can even be used as a sacrifice, given up as "maybe I was wrong about this, but..." and the memory of the Imp takes a strong hold on the user, unable to fully rid themselves.
+
+Worse, Imps aren't designed to change anyone's mind. They are meant to reinforce an already accepted truth and spread virally, gaining confidence in its existence with every reshare or like. The collective adopts the Imp as their own, allowing it to create copies of itself and forever persist in the minds of the owners.
+
+Imps aren't fun. They are terrible creatures that prey on your naiveté, your ignorance, and your uncontrolled desires. They taunt you with promises of truth and reward and validation of one's outlook and philosophical views on life. Imps appear to effectively attack your opponents and leave them defenceless.
+
+The effectiveness of Imps encourages others to create or find their own Imps, and to trade them and send them to battle. Imps proliferate on Facebook and Imgur and Reddit andTwitter and other short-form content sites that discourage nuanced views by creating an ecosystem where Imps can run rampant.
+
+This happens as a consequence of designing applications that allow users to quickly consume a lot of content. Users get used to these Imps because each one quickly bestows a little positive feedback. Long posts don't do this because the reward-cycle is too long and not as immediate or apparently satisfying. This is especially true of readers that aren't as educated or are firmly set in their original beliefs.
+
+Don't adopt Imps. Don't share them and don't give them attention. They may scream and pout or demand you respect them for how red their skin is, how demonic their eyes, or how long their claws, but they can't be allowed to think they are useful creatures. Let them die by ignoring them; starved of a host, they can't live on their own to spread to others or keep themselves alive. They will just be lost in a virtual graveyard as unfunny cartoons or as problems for high school debate students to tackle and dissect.
+
+-
+
+Below I link to examples of some imps which I found. These are just the simplest examples which help to illuminate the most obvious kinds of imps. There are all kinds of varying kinds and appearances. But they all have the same problems.
+
+<br />
+{:refdef: style="text-align: center;"}
+![StateStack Flow Diagram]({{site.cdn_path}}/clinton_and_hitler.jpg)
+{: refdef}
+<p class="caption">Finding a quote that is kind of the same doesn't mean they are the same</p>
+<br />
+
+<br />
+{:refdef: style="text-align: center"}
+![StateStack Flow Diagram]({{site.cdn_path}}/all_parties_the_same.png)
+{: refdef}
+<p class="caption">Just because some things are similar, doesn't mean they are similar</p>
+<br />
+
+<br />
+{:refdef: style="text-align: center;"}
+![StateStack Flow Diagram]({{site.cdn_path}}/republicans_money.jpg)
+{: refdef}
+<p class="caption">Strawman, meant to garner support without meaning anything</p>
+<br />
+
+
+<br />
+{:refdef: style="text-align: center;"}
+![StateStack Flow Diagram]({{site.cdn_path}}/healthcare_and_guns.jpg)
+{: refdef}
+<p class="caption">Starwman argument, equating two different things as the same</p>
+<br />
+
+<br />
+{:refdef: style="text-align: center;"}
+![StateStack Flow Diagram]({{site.cdn_path}}/conservative_logic.jpeg)
+{: refdef}
+<p class="caption">Comparing two very different topics with generic arguments and strawmen</p>
+<br />
+
+<br />
+{:refdef: style="text-align: center;"}
+![StateStack Flow Diagram]({{site.cdn_path}}/health.jpg)
+{: refdef}
+<p class="caption">Anecdotes don't mean it will work for everyone the same</p>
+<br />
+
+<br />
+{:refdef: style="text-align: center;"}
+![StateStack Flow Diagram]({{site.cdn_path}}/gop_economics.jpg)
+{: refdef}
+<p class="caption">Just meant to garner support from like-minded, not actually mean anything</p>
+<br />
