@@ -31,9 +31,9 @@ The most interesting aspect to this case I found, is that the Executive (through
 
 However, the FBI is saying that specific piece of Legislation is invalid as soon as a warrant is issued, and especially so once the All Writs Act is invoked.
 
-What the FBI is saying, is that it can ignore the Legislative so long as the Judicial sides with it on this matter. Except, our Laws aren't "Democratically" followed. Just because two branches want to ignore Congress, doesn't mean they just can, legally. They must present arguments and make cases, so that its publicly known under what circumstances and what *precedent* they are setting.
+What the FBI is saying, is that it can ignore the Legislative so long as the Judicial sides with it on this matter. Except, our Laws aren't "Democratically" followed. Just because two branches want to ignore a third, doesn't mean they just can, legally. They must present arguments and make cases, so that its publicly known under what circumstances and what *precedent* they are setting.
 
-This is incredibly important. Otherwise, the FBI, with just a single lone, lowly court, can take a warrant (The "OK" from the Legislative) and the AWA to give command any entity or organization or person to perform any task it demands, even if it is in direct opposition to an explicit piece of Legislation.
+This is incredibly important. Otherwise, the FBI, with just a single lone, lowly court, can take a warrant (The "OK" from the Legislative) and the AWA to command any entity or organization or person to perform any task, even if it is in direct opposition to an explicit piece of Legislation.
 
 Of course, the best argument for this is that the Judicial, and the Executive, must sometimes make decisions in extreme or imminently dangerous circumstances.
 
@@ -51,9 +51,9 @@ Why even have limitations on the Executive at all, if every attack and every cri
 -
 
 
-The reason the FBI is pushing this case is obvious. And I said it before. This has *nothing* to do with terrorism or encryption. This is all about the FBI wanting to expand its powers and explicitly bypass CALEA, Legislation passed and worked on by the Executive and Legislative, in a manner wholly authoritarian for reasons of fear and illegitimacy. The FBI wants unlimited powers to exploit through a single corrupted Court judge.
+The reason the FBI is pushing this case is obvious. And I said it before. This has *nothing* to do with terrorism or encryption. This is all about the FBI wanting to expand its powers and explicitly bypass CALEA, Legislation passed and worked on by the Executive and Legislative, in a manner wholly authoritarian for reasons out of fear. The FBI wants unlimited powers to exploit through a single corrupted Court judge.
 
-Even if another attack were to happen, and it "could have been prevented if we had the information on that phone", does not validate the government's position to supercede law. If its so important, new provisions should be made, or an actual declaration of war or Emergency Powers granted by Congress. There are so many tools for bypassing law that are established and known, with a clear purpose and extraordinary understanding, with a clear time-limited position.
+Even if another attack were to happen, and it "could have been prevented if we had the information on that phone", does not validate the government's position to supercede law. If it's so important, new provisions should be made, or an actual declaration of war or Emergency Powers granted by Congress. There are so many tools for bypassing law that are established and known, with a clear purpose and extraordinary understanding, with a clear time-limited position.
 
 This isn't a conspiracy. This is exactly what the FBI is doing, and its blatant and its clear.
 
