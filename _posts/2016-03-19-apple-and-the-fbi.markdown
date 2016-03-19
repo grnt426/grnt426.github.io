@@ -11,7 +11,7 @@ CALEA, in Section 103b1 of that act, the Feds gave up authority to require any s
 
 The All Writs Act: *"...may issue all writs necessary or appropriate in aid of their respective jurisdictions and agreeable to the usages and principles of law."*
 
-The AWA is a __general__ provision. CALEA section 1002 is a __special__ provision, which specifically states what the FBI and courts can't compel Apple to do.
+The AWA is a __general__ provision. CALEA section 103b1 is a __special__ provision, which specifically states what the FBI and courts can't compel Apple to do.
 
 As Justice Brewers argues in Rogers v United States, 1902:
 
