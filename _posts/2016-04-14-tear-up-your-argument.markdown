@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Empire of Sand"
-date:   2016-04-09
+title:  "Tear Up Your Argument"
+date:   2016-04-14
 categories: philosophy argumentation
 ---
 
