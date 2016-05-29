@@ -95,7 +95,7 @@ as itself a healthy compromise, when in reality its a poor necessity.
 
 -
 
-* Repeated Prisoner's Dilemma is an extension of the original game. In this version, both participants must decide to
+<sup>*</sup> Repeated Prisoner's Dilemma is an extension of the original game. In this version, both participants must decide to
 be silent, or betray, their friend over many games. If your friend betrays you in game 1, then you can punish them
 in game 2 by betraying them. This idea works nicely in the real world for a variety of cases, such as companies deciding
 to invest in R&D or not. In our case, Repeated Prisoner's Dilemma is in regards to legislation. All voters want each
