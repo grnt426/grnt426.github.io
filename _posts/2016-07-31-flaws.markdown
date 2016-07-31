@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Flaws"
+date:   2016-07-31
+categories: ontology short
+---
+Have you ever wanted something to be true, so much that you also wanted to find a flaw in it? Not because you want it to be wrong, per se, but rather because you can't find a flaw large enough, and are afraid you could just be plain wrong?
+
+The rationalization is odd, yet compelling: you want to believe its true, yet lack the rigor to undoubtedly prove it, and so by finding any flaw at all you can convince yourself that, while you don't understand all the pieces enough to *know* it is true, you don't have to pretend to have the answer.  Instead, you have downgraded its relative truth to simple "I *believe* this to be true", and can be overall more satisfied.
+
+The alternative is constant anxiety through over-thinking: What if I am wrong, and there is some flaw that disproves it that I can't see? By finding any flaw at all, you can live in comfort that you know you don't know, and so need no further effort.
+
+It is more human to simply believe it's true to unburden oneself of the existential dilemma, than to live with the contradiction until more evidence arrives.

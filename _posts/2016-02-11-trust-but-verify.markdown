@@ -3,7 +3,6 @@ layout: post
 title:  "Trust, but Verify"
 date:   2016-02-11
 categories: media society
-tags: [trust_verify]
 ---
 
 "Trust, but verify" is a fun phrase to think about. The general idea is that the receiver of information isn't in the wrong to trust the source, but should still be verified to determine the accuracy of the information.
