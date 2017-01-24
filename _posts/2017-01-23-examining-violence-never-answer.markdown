@@ -51,4 +51,4 @@ When the Nation is in the business of overtly overseeing all actions exclusively
 
 And so we see the greater contradiction: Nations, while holding the exclusive use of legal violence, do not morally hold the only use of violence. But by limiting yourself to never considering violence as a possible action, the Nation can arbitrarily define your actions as violent, and necessarily prevent you from ever acting against it.
 
-You yourself will become your greatest enemy, containing yourself and slowly killing yourself, all the while believing you are doing it faithfully in the service of the Nation, and all the while believing you are doing the morally right thing.
+You yourself will become your greatest enemy, constraining yourself and slowly killing yourself, all the while believing you are doing it faithfully in the service of the Nation, and all the while believing you are doing the morally right thing.
