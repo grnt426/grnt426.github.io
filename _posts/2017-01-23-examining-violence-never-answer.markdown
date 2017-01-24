@@ -47,7 +47,7 @@ And that is a big problem. If the Nation can decide what you did wasn't sufficie
 
 The Nation must ensure it holds its monopoly on violence, and sometimes, the Nation can overstep its bounds in such a way as to confuse resistance to the Nation as a form of violence only it can grant permission to do.
 
-When the Nation is in the business of overtly overseeing all actions exclusively through a lens of violence, it supposes itself to live in some Egalitarian society where violence never happens, and is never acceptable. It also sees imagines itself as in the sole position to make moral decisions on violence. But, Nations are made of people, and those people give life to the Nation, even if unequally. For the Nation to be the only one to define morality is to deprive its very citizens of the same.
+When the Nation is in the business of overtly overseeing all actions exclusively through a lens of violence, it supposes itself to live in some Egalitarian society where violence never happens, and is never acceptable. It also imagines itself as in the sole position to make moral decisions on violence. But, Nations are made of people, and those people give life to the Nation, even if unequally. For the Nation to be the only one to define morality is to deprive its very citizens of the same.
 
 And so we see the greater contradiction: Nations, while holding the exclusive use of legal violence, do not morally hold the only use of violence. But by limiting yourself to never considering violence as a possible action, the Nation can arbitrarily define your actions as violent, and necessarily prevent you from ever acting against it.
 
