@@ -5,7 +5,7 @@ date:   2017-06-18
 categories: gamedev
 ---
 
-In narrative mediums (books, comics, tv shows, movies, recordings), Suspension of Disbelief is an integral piece for a consumer to appreciate, enjoy, or even accept the basic premise of fictional works. In video games, Suspension of Disbelief also exists but I want to propose that something subtly different also exists, Suspension of Agency. Suspension of Agency is loosely defined as the player accepting the mechanical restrictions and lack of mechanical systems which enable Free Agency.
+In narrative mediums (books, comics, tv shows, movies, recordings), Suspension of Disbelief is an integral piece for a consumer to appreciate, enjoy, or even accept the basic premise of fictional works. In video games, Suspension of Disbelief exists, but I want to propose that something subtly different also exists: Suspension of Agency. Suspension of Agency is loosely defined as the player accepting the mechanical restrictions and lack of mechanical systems which enable Free Agency.
 
 I say the difference between the two is subtle because at first it isn’t obvious that the difference particularly matters. When Suspension of Disbelief is combined with Ludonarrative-Dissonance, we can cover most all aspects of when a player must suspend their critical analysis skills in favor of accepting the “truth” of the universe they inhabit.
 
