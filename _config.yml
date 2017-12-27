@@ -18,7 +18,7 @@ github_username:  grnt426
 # Build settings
 markdown: kramdown
 
-cdn_path: https://dl.dropboxusercontent.com/u/4571782/blog_images
+cdn_path: https://d13wjhyb0m2o4z.cloudfront.net/
 
 defaults:
     -
