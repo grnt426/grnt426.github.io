@@ -21,9 +21,9 @@ Let’s simplify this game even further: The player can press one button to move
 
 Once we strip away nearly all meaningful actions and distill them into simple, obvious choices, Suspension of Disbelief seems clear, as nearly all agency has been removed, and the narrative dominates all the possible actions of the player. 
 
-This seems to be a contradiction, then, or at least a slightly circular argument. Perhaps because we need to recognize what games are: an interactive system. The only way for a game to be interactive, meaning to provide feedback about their inputs, is if the player can believe they can affect the game world through their explicit choices and actions, or Agency.
+This seems to be a contradiction, then, or at least a slightly circular argument. Perhaps because we need to recognize what games are: an interactive system. The only way for a game to be interactive, meaning to provide feedback about their inputs, is if the player can feel they can affect the game world through their explicit choices and actions, or Agency.
 
-It is this initial belief that the player has control over the character, the world, and the systems presented that separates passive narrative mediums from video games. This belief is substantiated through complex inputs and systems which elevate the notion of Agency to something that can be believed as “real” within the game world.
+It is this initial feeling that the player has control over the character, the world, and the systems presented that separates passive narrative mediums from video games. This feeling is substantiated through complex inputs and systems which elevate the notion of Agency to something that can be felt as “real” within the game world.
 
 Without Suspension of Agency, the player might wonder why they can’t scratch their nose, or break their own arm, or move things off a table. The player might quickly assume they have the Agency and control to affect and do anything. But, it just isn’t possible to provide inputs for every form of Agency, and it isn’t possible to build systems which can accommodate every explicit or implicit choice. This isn’t a failing of narration, but a failure of game systems to support complex Free Agency. 
 
