@@ -37,7 +37,7 @@ A physical manifestation of will
 
 Linking Humanity and its destiny<br />
 A shimmering pearl necklace, of cosmic scale?<br />
-No; A faint strand of occasional bright flashes, energy released<br />
+Yes; A faint strand of occasional bright flashes, energy released<br />
 Dust and micrometeorites chancing into packets of antimatter
 
 As Humanity's future burns brighter, so, too, does its oysters
