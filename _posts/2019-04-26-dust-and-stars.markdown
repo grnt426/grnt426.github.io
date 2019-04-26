@@ -2,7 +2,7 @@
 layout: post
 title:  "Dust and Stars"
 date:   2019-04-26
-categories: short story scifi science
+categories: short story scifi science poem
 ---
 
 As the dust and light between stars drifts, slowly<br />
