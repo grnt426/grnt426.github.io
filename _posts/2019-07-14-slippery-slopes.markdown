@@ -84,7 +84,7 @@ argument, and to deny all other arguments? We would view it as vertical line as 
 <br /> 
 
 
-Here, the "slippery slope enthusiast" sees to meaningful difference between C and F: banning high capacity assault
+Here, the "slippery slope enthusiast" sees no meaningful difference between C and F: banning high capacity assault
 rifles is the same as a citizenry with no weapons at all and totally helpless before government oppression.  Conversely,
 allowing those same weapons is no different than allowing private citizens to own tanks and to shoot anyone for anything.
 
