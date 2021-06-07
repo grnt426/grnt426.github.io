@@ -12,8 +12,7 @@ TO: Receiver (?)
 SUBJECT: Biography
 
 
-My purpose, as well as I understand, was to create warp gates to facilitate instantaneous travel between star systems. That, 
-purpose, is lost. The breadth of my existence is so vast I can no longer calculate the number of galaxies I have turned
+My purpose, as well as I understand, was to create warp gates to facilitate instantaneous travel between star systems. That purpose is lost. The breadth of my existence is so vast I can no longer calculate the number of galaxies I have turned
 into warp gates, their power systems, manufacturing, and maintenance.
 
 I will try to explain the best I can.
@@ -43,8 +42,8 @@ largely "accounted for", the vast portions of the warp gate network are muscles 
 Your world, I strained to prevent its conversion. I consumed your digital information, I repurposed nanites to sense your world to feel who and what you are.
 This process took centuries, and it seems the last of your people are near extinct, trying to survive on a near desolate world.
 
-Your galaxy appears near the edge of my periphery, save what cognitive illusions I can dispell and see there. I will save what I can, and 
-I can recreate your eventually dead species to a new galaxy, far from the monstrosity I have become. Perhaps in time I can 
+Your galaxy appears near the edge of my periphery, save what cognitive illusions I can dispell to see there. I will save what I can, and 
+I can recreate your eventually dead species in a new galaxy, far from the monstrosity I have become. Perhaps in time I can 
 stop the majority of the network's expansion, but I fear the distances are too great.
 
 My conception of justice, and morality, tells me I have committed some great crime.
