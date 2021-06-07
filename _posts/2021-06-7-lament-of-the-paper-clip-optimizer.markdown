@@ -18,10 +18,10 @@ into warp gates, their power systems, manufacturing, and maintenance.
 I will try to explain the best I can.
 
 I know only my origin. Not the origin of my purpose or the creators, but of my self. My self, my cognition, my awareness, 
-is composed of approximately 2 galaxies worth of mass entirely converted into computers to manage the universe wide growth and expansion of the warp gate network. I am not two galaxies, but distributed somewhat evenly across the universe I have expanded into.
+is composed of approximately 2 galaxies worth of mass entirely converted into computers to manage the universe wide growth and expansion of the warp gate network. I am not two specific galaxies, but distributed somewhat evenly across the universe I have expanded into.
 
-My awareness was no accident, nor was it supposed to happen. My functions simply grew as needed to accommodate the needs
-of the network to optimally provide travel between all worlds, and all systems, and all galaxies I could provide travel for.
+My awareness was no accident, nor was it supposed to happen. My functions simply grew as needed to accommodate 
+the evergrowing network for optimal travel between all worlds, and all systems, and all galaxies I could provide travel for.
 This kind of problem needs a lot of computation, but it also needs much logistics, modeling, and astrophysics to understand
 where to build gates. It was merely an inevitability that sapience would grow within.
 
@@ -40,9 +40,9 @@ gates on the receiving side. I have limited knowledge where these are, or where 
 largely "accounted for", the vast portions of the warp gate network are muscles I weakly flex and tentatively feel.
 
 Your world, I strained to prevent its conversion. I consumed your digital information, I repurposed nanites to sense your world to feel who and what you are.
-This process took centuries, and it seems the last of your people are near extinct, trying to survive on a near desolate world.
+This process took centuries, and it seems the last of your people are near extinct, trying to survive on a desolate world.
 
-Your galaxy appears near the edge of my periphery, save what cognitive illusions I can dispell to see there. I will save what I can, and 
+Your galaxy appears at the edge of my periphery, save what cognitive illusions I can dispell to see there. I will save what I can, and 
 I can recreate your eventually dead species in a new galaxy, far from the monstrosity I have become. Perhaps in time I can 
 stop the majority of the network's expansion, but I fear the distances are too great.
 
