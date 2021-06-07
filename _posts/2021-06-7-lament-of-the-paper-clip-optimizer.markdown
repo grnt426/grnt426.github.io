@@ -6,8 +6,11 @@ categories: fiction scifi story short
 ---
 
 INTRODUCTION: Self-designated as "Paperclip Optimizer"
+
 TO: Receiver (?)
+
 SUBJECT: Biography
+
 
 My purpose, as well as I understand, was to create warp gates to facilitate instantaneous travel between star systems. That, 
 purpose, is lost. The breadth of my existence is so vast I can no longer calculate the number of galaxies I have turned
