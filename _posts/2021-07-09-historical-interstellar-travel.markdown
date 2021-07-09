@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Brief Historical Analysis of Interstellar Antimatter Refueling (2374)"
+title:  "A Historical Analysis of the Impact of Interstellar Antimatter Refueling (2374)"
 date:   2021-07-09
 categories: short story scifi science
 ---
@@ -194,6 +194,9 @@ working to oppress colonial worlds and sovereignty [40].
 It is at this point we reach the most modern day history. I have many colleagues working hard on analyzing the tumultuous times we now live,
 including the monopoly busting of APDC and fall of the Jovaniers high status. These papers, if peer reviewed positively,
 should hopefully publish onto the larger interstellar infocache networks or local netdumps with the next data drones.
+
+Afterword
+---------
 
 I'd like to thank Milhu, my furry gatt, for keeping me company while I worked to produce this 133 page paper. Special
 thanks to my life-long friend Mical Ky, who provided technical details for the section *Capturing Relativistic Payloads*,
