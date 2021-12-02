@@ -63,7 +63,7 @@ eons past replaced the geese flying above. For brief moments I wasn't in a car, 
 Time started moving, it too subject to the whims of those horrors. Pieces of cars and trees flying in all directions,
 as if their momentum in space got swapped with that in time.
 
-The universe was trying to find a way to undo the horror, and seemed to struggle. Before I could think this was all some
+The universe was trying to find a way to undo the crash, and seemed to struggle. Before I could think this was all some
 kind of delusion, that I really was going to die and no Bargain made, everything moved faster and faster. More random
 changes, my car was pulled forwards and back through time, righting itself, another car separating into halves
 and then rejoining. It would pop in and out, I got pulled further and further back. The first strike, the barrier, then
