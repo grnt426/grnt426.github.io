@@ -101,5 +101,5 @@ passengers slammed into one car before veering back into the travel lane and str
 had drivers ill-prepared for what was happening. Five cars total collided, one going over the median and
 getting hit by an oncoming car, causing another three cars to rear-end each other.
 
-I reached up to remove a wetness from my cheeks, but I saw nothing on my fingers. I looked back into the rearview
-mirror, this time looking at my face.
+I continued down the highway, in total shock at the events and how close I had come to death. I reached up to remove a
+wetness from my cheeks, but I saw nothing on my fingers. I looked back into the rearview mirror, this time looking at my face.
