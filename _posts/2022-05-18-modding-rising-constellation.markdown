@@ -102,7 +102,7 @@ I rebuilt my replay engine and now had a second hook point for code. I kept the 
 
 Success - MVP
 =========
-With that, I then had an MVP I could show players in the game, which was a functional replay system. You can see what that looks like here: https://rc-replay.com/html/viewer.html
+With that, I then had an MVP I could show players in the game, which was a functional replay system. You can see what that looks like here: [https://rc-replay.com](https://rc-replay.com/html/viewer.html)
 
 I was happy to have accomplished so much, and delivered a really cool feature to players. It needs more polish, for sure, but I had a success and wanted to keep building on that with changes focused more on the client, rather than just exfiltrating data.
 
