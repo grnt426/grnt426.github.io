@@ -5,7 +5,7 @@ date:   2022-05-18
 categories: programming mods hacking
 ---
 
-Over the past few months, I have been experimenting, reverse-engineering, and hacking at a video game I have fallen in love with: Rising Constellation. I hadn't done this kind of work before, so much of it was new to me. What kept me motivated and moving was how much I enjoyed the niche, slow-burn, intricacies of Rising Constellation. Below is a re-counting of what I did, the various attempts and discarded ideas, and little successes I had.
+Over the past few months, I have been experimenting, reverse-engineering, and hacking at a video game I have fallen in love with: Rising Constellation. I hadn't done this kind of work before, so much of it was new to me. What kept me motivated and moving was how much I enjoyed the niche, slow-burn, and intricacies of Rising Constellation. Below is a re-counting of what I did, the various attempts and discarded ideas, and little successes I had.
 
 Rising Constellation
 =========
@@ -74,7 +74,7 @@ xhr.send(JSON.stringify(y.a.state.game));
 
 As well as repeating this process for every other thing, and the keys, of stuff under `y`, `a`, and such. For now, I was in data harvesting mode. Just taking whatever I could get and analyzing the results.
 
-What was a getting out of the game? Well, nearly all of the game state, just as the variable names promised. Sounds great? Well, its about 18 MB when formatted to be readable. The bulk of that data is all the connections between systems and the systems themselves.
+What was I getting out of the game? Well, nearly all of the game state, just as the variable names promised. Sounds great? Well, its about 18 MB when formatted to be readable. The bulk of that data is all the connections between systems and the systems themselves.
 
 Replay System
 ===========
@@ -106,4 +106,4 @@ With that, I then had an MVP I could show players in the game, which was a funct
 
 I was happy to have accomplished so much, and delivered a really cool feature to players. It needs more polish, for sure, but I had a success and wanted to keep building on that with changes focused more on the client, rather than just exfiltrating data.
 
-The next blog post will cover how I had to refactor everything again to make mods useable by other players.
+The next blog post will cover how I had to refactor everything again to make mods useable by other players. Considerations I made for how to have other player's write mods and integrate, distribution, installation, and more.
