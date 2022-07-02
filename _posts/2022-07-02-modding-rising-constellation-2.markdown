@@ -69,24 +69,29 @@ What does `HookDispatcher` do? Only a few things.
 An example, using the injected chat message from above, looks like this after several checks and guards
 
 ```js
-// Give this chat message to all mods
-this.modHooks.forEach(m => {
+class HookDispatcher {
+    ...
+    chat(message) {
+    ...
+        // Give this chat message to all mods
+        this.modHooks.forEach(m => {
 
-    // If a listener doesn't implement the function, we silently ignore the listener and move on
-    if(m.chatMessage) {
-        try {
-            processed |= m.chatMessage(data);
-        }
-        catch(err) {
+            // If a listener doesn't implement the function, we silently ignore the listener and move on
+            if(m.chatMessage) {
+                try {
+                    processed |= m.chatMessage(data);
+                } catch(err) {
 
-            // We ignore all failures within hook handlers. This isolates failing mods from the rest
-            window.granite.debug(
-                "ERROR in dispatching chatMessage for mod " + this.#getModName(m) + ". " + err,
-                window.granite.levels.ERROR
-            );
-        }
+                    // We ignore all failures within hook handlers. This isolates failing mods from the rest
+                    window.granite.debug(
+                        "ERROR in dispatching chatMessage for mod " + this.#getModName(m) + ". " + err,
+                        window.granite.levels.ERROR
+                    );
+                }
+            }
+        });
     }
-});
+}
 ```
 
 _In this handler I allow mods to decide on their own whether a chat message should be allowed through or not. It was an old decision that is being reconsidered. It is presented here to show the messy process of constant iteration modding goes through._
