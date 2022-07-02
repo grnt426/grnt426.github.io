@@ -98,7 +98,7 @@ return h()(t, [{
 
 Wow, that looks like a stream of updates! I repeated the process above to start dumping whatever data was at this scope, just to see what was there and validate. Sure enough, every change that happened in the game (that the player could see, anyway), would flow here. Quite helpfully, it was already categorized for me.
 
-I rebuilt my replay engine and now had a second hook point for code. I kept the bulk of my changes in the `init` function I found above. Because, why change what doesn't work?
+I rebuilt my replay engine and now had a second hook point for code. I kept the bulk of my changes in the `init` function I found above. Because, why change what works?
 
 Success - MVP
 =========
