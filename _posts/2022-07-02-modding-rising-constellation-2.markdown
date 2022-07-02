@@ -11,7 +11,7 @@ Goals for Modding
 =================
 Before I did anything, I needed to ask myself, "if I were a user of these mods, what would I want"?
 
-Several needs manifested themselves as clear goals I needed to achieve
+Several needs manifested themselves as clear goals to achieve
 
 1. Central place to find and download mods for the game
 2. Easy to install and update downloaded mods; remove them and see what's installed
@@ -117,7 +117,7 @@ class CameraChat {
     chatMessage(message) {
     ...
 
-        // This allows us to support `c 193:212` and `c 193 212`
+        // This allows us to support `goto 193:212` and `goto 193 212`
         if(message.indexOf(":") !== 0) {
             message = message.replace(":", " ");
         }
@@ -147,7 +147,7 @@ Results
 =======
 With this modding plugin-based architecture, I was able to adapt all my mods into this new format, and wow were they much easier to work with after doing this. No need to litter all over the original code base with my code changes. Failures are isolated, mods can dump errors to logs as needed, and I was quickly building up a useful API for others to easily use, without needing to understand the original codebase in-depth.
 
-To put it all together, here is the mod that is needed for all other mods to work: [RC Mod API](https://github.com/grnt426/RC-Mod-API). This contains a modified version of the original `19.js` file that users just replace, along with my `HookDispatcher`.
+To put it all together, here is the mod that is needed for all other mods to work: [RC Mod API](https://github.com/grnt426/RC-Mod-API) (RCMA). This contains a modified version of the original `19.js` file that users just replace, along with my `HookDispatcher`.
 
 Here are the mods I developed using RCMA at the time of this blog post:
 
