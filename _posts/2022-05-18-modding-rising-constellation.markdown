@@ -25,7 +25,9 @@ A big positive going for me was the javascript files are just dumped to disk whe
 
 First Steps
 ===========
-I opened up the developer console for the game while I was still playing it in the browser, before getting it on Steam. From here, I realized the first difficulty: its all minified. Once I bought the Steam version I then started just opening random Javascript files. The goal here wasn't to find anything in particular, it was to take a stroll through a park and see if anything stood out. I didn't want to tunnel-vision myself and so tried to keep an open mind. Who knows what I would find that would look useful? I certianly didn't, so this seemed like the best strategy.
+I opened up the developer console for the game while I was still playing it in the browser, before getting it on Steam. From here, I realized the first difficulty: its all minified. Once I bought the Steam version I then started just opening random Javascript files. 
+
+The goal here wasn't to find anything in particular, it was to take a stroll through a park and see if anything stood out. I didn't want to tunnel-vision myself and so tried to keep an open mind. Who knows what I would find that would look useful? I certianly didn't, so this seemed like the best strategy.
 
 Eventually, I found the below code, which seemed really interesting to me:
 
