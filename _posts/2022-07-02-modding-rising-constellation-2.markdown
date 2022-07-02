@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Modding Rising Constellation - Plugin Architecture"
-date:   2022-05-18
+date:   2022-07-02
 categories: programming mods hacking
 ---
 
