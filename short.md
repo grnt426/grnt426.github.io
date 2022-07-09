@@ -6,9 +6,6 @@ permalink: /short/
 
 If you want some short and sweet pieces, I would recommend these:
 
-[Flaws]({% post_url 2016-07-31-flaws %})
-
-[Logically Absurd]({% post_url 2015-10-23-logically-absurd %})
 
 [Morality]({% post_url 2015-09-09-morality %})
 
