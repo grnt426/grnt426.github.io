@@ -22,7 +22,7 @@ cdn_path: https://d13wjhyb0m2o4z.cloudfront.net
 defaults:
     -
         scope:
-            path: ""
+            path: "_posts"
             type: "posts"
         values:
             layout: "default"
